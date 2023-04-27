@@ -30,6 +30,7 @@ F=((C'.B.A)'(D'.C.A)'(C.B'.A)')'
 5. End the verilog program using keyword endmodule.
 
 ## Program:
+```c
 /*
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by: Selvakumar A
@@ -62,13 +63,13 @@ assign s= (w & ~x & y);
 assign t= (w & x & y);
 assign F2= p | q | r | s | t;
 endmodule
-## RTL realization
+```
 
 ## Output:
 ## Logic Diagram:
 ![image](https://user-images.githubusercontent.com/120643262/234795929-d143f08b-0a71-4fd1-9a09-14f9f4340fb6.png)
 
-## RTL:
+## RTL realization:
 FOR F1:
 ![image](https://user-images.githubusercontent.com/120643262/234796111-ad6bd50c-e40c-4c4b-9571-32a02085742a.png)
 FOR F2:
