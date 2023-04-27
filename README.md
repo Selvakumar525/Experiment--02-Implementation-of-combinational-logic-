@@ -32,7 +32,8 @@ F=((C'.B.A)'(D'.C.A)'(C.B'.A)')'
 ## Program:
 ```c
 /*
-Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
+Program to implement the given logic function and to verify its operations in quartus
+using Verilog programming.
 Developed by: Selvakumar A
 RegisterNumber:  212222110042
 */
