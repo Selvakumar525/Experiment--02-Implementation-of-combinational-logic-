@@ -82,5 +82,5 @@ endmodule
 ![image](https://github.com/Selvakumar525/Experiment--02-Implementation-of-combinational-logic-/assets/120643262/595933f0-8655-44be-9469-3c602f74cdc1)
 ## FOR F2:
 ![image](https://github.com/Selvakumar525/Experiment--02-Implementation-of-combinational-logic-/assets/120643262/7524fd25-f43f-4da9-b4a8-326bb2db80f0)
-
+## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
