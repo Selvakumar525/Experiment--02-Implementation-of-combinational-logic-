@@ -34,10 +34,11 @@ F=((C'.B.A)'(D'.C.A)'(C.B'.A)')'
 /*
 Program to implement the given logic function and to verify its operations in quartus
 using Verilog programming.
-Developed by: Selvakumar A
-RegisterNumber:  212222110042
-*/
-// F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
+Developed by: Selva Kumar A
+RegisterNumber: 212222110042
+
+
+F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 
 module imp(A,B,C,D,F1);
 input A,B,C,D;
@@ -51,7 +52,7 @@ assign t = (B & ~C & D);
 assign F1 = p | q | r | s | t;
 endmodule
 
-// F2=xy’z+x’y’z+w’xy+wx’y+wxy
+F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 module imp(w,x,y,z,F2);
 input w,x,y,z;
