@@ -73,19 +73,14 @@ endmodule
 
 ## RTL realization:
 
-FOR F1:
-![image](https://user-images.githubusercontent.com/120643262/234796111-ad6bd50c-e40c-4c4b-9571-32a02085742a.png)
-
-FOR F2:
-![image](https://user-images.githubusercontent.com/120643262/234796527-d29e5583-e2f4-4a8f-b9fe-a894fb7b41b4.png)
-
+## FOR F1:
+![image](https://github.com/Selvakumar525/Experiment--02-Implementation-of-combinational-logic-/assets/120643262/dd76dbc1-5849-4742-b351-b66e05623b34)
+## FOR F2:
+![image](https://github.com/Selvakumar525/Experiment--02-Implementation-of-combinational-logic-/assets/120643262/61ab16f2-afb4-4286-98cb-539b032f4e20)
 ## Timing Diagram
+## FOR F1:
+![image](https://github.com/Selvakumar525/Experiment--02-Implementation-of-combinational-logic-/assets/120643262/595933f0-8655-44be-9469-3c602f74cdc1)
+## FOR F2:
+![image](https://github.com/Selvakumar525/Experiment--02-Implementation-of-combinational-logic-/assets/120643262/7524fd25-f43f-4da9-b4a8-326bb2db80f0)
 
-FOR F1:
-![image](https://user-images.githubusercontent.com/120643262/234796605-0933bdff-6b59-449d-a6c9-601d0f96434e.png)
-
-FOR F2:
-![image](https://user-images.githubusercontent.com/120643262/234797196-a34d9b01-534a-4808-9ec9-8a4e62bee86a.png)
-
-## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
